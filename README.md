@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Daniyah Hasan, a Computer Science student at t
 - Improving my skills in data visualization and software design
 
 🌱 I’m currently learning:  
-- Advanced AI & Machine Learning** techniques  
+- Advanced AI & Machine Learning techniques  
 - Scalable web development with modern frameworks  
 - Database optimization and data engineering  
 
