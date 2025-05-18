@@ -1,38 +1,30 @@
-Hi there 👋  
+# Hi, I'm Daniyah Hasan 👋
 
-Welcome to my GitHub profile! I'm Daniyah Hasan, a Computer Science student at the University of Pennsylvania.
----
+I'm a Computer Science student at the University of Pennsylvania with a passion for building impactful tech at the intersection of data, creativity, and strategy.
 
-🔭 I’m currently working on:  
-- Developing full-stack applications for nonprofits
-- Exploring machine learning and AI applications in real-world data problems  
-- Improving my skills in data visualization and software design
+### 🚀 What I’m Working On
+- Full-stack apps for nonprofits and student-led ventures  
+- Real-world AI/ML solutions for data-driven decision making  
+- Visual analytics tools and intuitive UI/UX design  
 
-🌱 I’m currently learning:  
-- Advanced AI & Machine Learning techniques  
-- Scalable web development with modern frameworks  
-- Database optimization and data engineering  
+### 📚 Currently Learning
+- Advanced machine learning and MLOps workflows  
+- Scalable web systems & cloud-based architectures  
+- Database optimization and backend performance  
 
-👯 I’m looking to collaborate on:  
-- Open-source projects related to AI, data analytics, and full-stack development 
-- Nonprofit tech initiatives that drive social impact
-- Startups and research projects focused on ethical AI 
+### 🤝 Let’s Collaborate
+- AI, data, and full-stack open-source projects  
+- Tech for social good & ethical AI initiatives  
+- Startup MVPs or research with a global lens  
 
-🤔 I’m looking for help with:  
-- Learning best practices in MLOps & AI deployment  
-- Optimizing backend performance for large-scale applications  
-
-💬 Ask me about:  
+### 💬 Ask Me About
 - Data-driven marketing & business strategy  
+- Breaking into tech/startups as a student  
 - Software development best practices  
-- Breaking into tech & startup culture as a student  
 
-📫 How to reach me:  
-📩 Email: daniahsn@seas.upenn.edu  
-💼 [LinkedIn](https://www.linkedin.com/in/daniyah-hasan/)  
+### 📫 Reach Out
+- **Email**: daniahsn@seas.upenn.edu  
+- **LinkedIn**: [linkedin.com/in/daniyah-hasan](https://www.linkedin.com/in/daniyah-hasan)
 
-⚡ Fun fact:  
-I love baking, traveling, and Bollywood music! 🎶🍰✈️  
-
----
-Thanks for visiting my profile! Let's build, innovate, and create impact together 🚀✨  
+### ⚡ Fun Fact
+I'm a baker, traveler, and Bollywood fan 🎶🍰✈️
