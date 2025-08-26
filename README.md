@@ -1,4 +1,4 @@
-# Hi, I'm Daniyah Hasan 👋
+# Hi, I'm Dania 👋
 
 I'm a Computer Science student at the University of Pennsylvania with a passion for building impactful tech at the intersection of data, creativity, and strategy.
 
@@ -24,7 +24,7 @@ I'm a Computer Science student at the University of Pennsylvania with a passion 
 
 ### 📫 Reach Out
 - **Email**: daniahsn@seas.upenn.edu  
-- **LinkedIn**: [linkedin.com/in/daniyah-hasan](https://www.linkedin.com/in/daniyah-hasan)
+- **LinkedIn**: [linkedin.com/in/daniyah-hasan](https://www.linkedin.com/in/daniahasan-)
 
 ### ⚡ Fun Fact
 I'm a baker, traveler, and Bollywood fan 🎶🍰✈️
